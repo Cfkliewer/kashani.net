@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kashani-re-api", "kashani-re-api\kashani-re-api.csproj", "{52150AD5-4A1B-4063-87FD-DDA3E3BB82AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{8A5953B9-78E6-4E15-B19E-1C7B0111C2A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52150AD5-4A1B-4063-87FD-DDA3E3BB82AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52150AD5-4A1B-4063-87FD-DDA3E3BB82AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52150AD5-4A1B-4063-87FD-DDA3E3BB82AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52150AD5-4A1B-4063-87FD-DDA3E3BB82AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5953B9-78E6-4E15-B19E-1C7B0111C2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5953B9-78E6-4E15-B19E-1C7B0111C2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5953B9-78E6-4E15-B19E-1C7B0111C2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5953B9-78E6-4E15-B19E-1C7B0111C2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F663CECC-B9AE-43DD-B2CB-A34FC3ECA465}
+	EndGlobalSection
+EndGlobal
